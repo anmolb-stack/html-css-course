@@ -1,3 +1,1 @@
-**Hi everyone! 👋
-
-I am currently learning web development and have started my journey with the frontend. 
+💻 Learning HTML & CSS | 🚀 On a mission to master frontend development | 🌟 Code. Create. Repeat.
